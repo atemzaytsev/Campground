@@ -1,0 +1,24 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atemzaytsev/c9.git"
+  },
+  "author": "artemzaytsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atemzaytsev/c9/issues"
+  },
+  "homepage": "https://github.com/atemzaytsev/c9#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  }
+}
